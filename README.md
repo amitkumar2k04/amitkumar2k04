@@ -3,7 +3,7 @@
 
 <img align="right" alt="coading" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
-- 👨‍💻 All of my projects are available at [https://netflix-gpt-seven-sandy.vercel.app/](https://netflix-gpt-seven-sandy.vercel.app/)
+- 👨‍💻 All of my projects are available at https://amit-kumar-portfolioo.netlify.app/
 
 - 💬 Ask me about **Java, JavaScript, React, Node, ExpressJS, MongoDB, MySQL, Machine Learning**
 

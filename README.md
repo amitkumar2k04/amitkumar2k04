@@ -5,7 +5,11 @@
 
 - - 👨‍💻 [My portfolio](https://amit-kumar-portfolioo.netlify.app/)
 
-- [![Reach me out here](https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png)](mailto:amitkumar2k00@gmail.com)
+- <a href="mailto:amitkumar2k00@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="20" height="20" style="vertical-align:middle;">
+    Reach me out here
+  </a>
+
 
 - 📄 [My Resume](https://drive.google.com/file/d/1i-d5mS3Zz6Xg1JB01wdHWzFXDU_FPZ4i/view)
 

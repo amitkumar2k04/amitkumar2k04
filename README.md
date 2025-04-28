@@ -3,7 +3,7 @@
 
 <img align="right" alt="coading" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
-- - 👨‍💻 [My portfolio](https://amit-kumar-portfolioo.netlify.app/)
+- 👨‍💻 [My portfolio](https://amit-kumar-portfolioo.netlify.app/)
 
 - <a href="mailto:amitkumar2k00@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="20" height="20" style="vertical-align:middle;">

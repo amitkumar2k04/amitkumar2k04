@@ -45,6 +45,7 @@
 - 📧 Email: [amitkumar2k00@gmail.com](mailto:amitkumar2k00@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/amitkumar2k](https://www.linkedin.com/in/amitkumar2k/)  
 - 💻 GitHub: [github.com/amitkumar2k04](https://github.com/amitkumar2k04)
+- 🌐 Portfolio: [amitkumarofficial.me](https://amitkumarofficial.me)
 ---
 
 > I write clean code, build scalable systems, and make beautiful UI.
